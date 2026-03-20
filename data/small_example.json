@@ -1,0 +1,16 @@
+{
+  "professores": [
+    {
+      "id": "P1",
+      "nome": "Ana Costa",
+      "eixos": ["Orientação", "Computação"],
+      "custo_hora": 80,
+      "max_horas_semana": 10,
+      "disponibilidade": [
+        {"semana": 1, "dia": "Mon", "horario": "08-10"},
+        {"semana": 1, "dia": "Mon", "horario": "10-12"},
+        {"semana": 1, "dia": "Tue", "horario": "08-10"}
+      ]
+    }
+  ]
+}

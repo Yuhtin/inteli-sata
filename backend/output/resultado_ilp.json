@@ -1,0 +1,357 @@
+{
+  "alocacoes": [
+    {
+      "semana": 1,
+      "dia": "Mon",
+      "horario": "08-10",
+      "eixo": "Computação",
+      "professor_id": "P1",
+      "professor_nome": "Prof. Ana Silva",
+      "custo": 200.0
+    },
+    {
+      "semana": 1,
+      "dia": "Mon",
+      "horario": "10-12",
+      "eixo": "Computação",
+      "professor_id": "P1",
+      "professor_nome": "Prof. Ana Silva",
+      "custo": 200.0
+    },
+    {
+      "semana": 1,
+      "dia": "Tue",
+      "horario": "08-10",
+      "eixo": "Orientação",
+      "professor_id": "P1",
+      "professor_nome": "Prof. Ana Silva",
+      "custo": 200.0
+    },
+    {
+      "semana": 1,
+      "dia": "Tue",
+      "horario": "10-12",
+      "eixo": "Computação",
+      "professor_id": "P1",
+      "professor_nome": "Prof. Ana Silva",
+      "custo": 200.0
+    },
+    {
+      "semana": 1,
+      "dia": "Wed",
+      "horario": "08-10",
+      "eixo": "Computação",
+      "professor_id": "P1",
+      "professor_nome": "Prof. Ana Silva",
+      "custo": 200.0
+    },
+    {
+      "semana": 2,
+      "dia": "Mon",
+      "horario": "08-10",
+      "eixo": "Computação",
+      "professor_id": "P1",
+      "professor_nome": "Prof. Ana Silva",
+      "custo": 200.0
+    },
+    {
+      "semana": 2,
+      "dia": "Mon",
+      "horario": "10-12",
+      "eixo": "Computação",
+      "professor_id": "P1",
+      "professor_nome": "Prof. Ana Silva",
+      "custo": 200.0
+    },
+    {
+      "semana": 2,
+      "dia": "Tue",
+      "horario": "08-10",
+      "eixo": "Computação",
+      "professor_id": "P1",
+      "professor_nome": "Prof. Ana Silva",
+      "custo": 200.0
+    },
+    {
+      "semana": 2,
+      "dia": "Tue",
+      "horario": "10-12",
+      "eixo": "Computação",
+      "professor_id": "P1",
+      "professor_nome": "Prof. Ana Silva",
+      "custo": 200.0
+    },
+    {
+      "semana": 2,
+      "dia": "Wed",
+      "horario": "08-10",
+      "eixo": "Orientação",
+      "professor_id": "P1",
+      "professor_nome": "Prof. Ana Silva",
+      "custo": 200.0
+    },
+    {
+      "semana": 1,
+      "dia": "Mon",
+      "horario": "14-16",
+      "eixo": "Matemática",
+      "professor_id": "P2",
+      "professor_nome": "Prof. Bruno Costa",
+      "custo": 240.0
+    },
+    {
+      "semana": 1,
+      "dia": "Tue",
+      "horario": "14-16",
+      "eixo": "Matemática",
+      "professor_id": "P2",
+      "professor_nome": "Prof. Bruno Costa",
+      "custo": 240.0
+    },
+    {
+      "semana": 2,
+      "dia": "Mon",
+      "horario": "14-16",
+      "eixo": "Computação",
+      "professor_id": "P2",
+      "professor_nome": "Prof. Bruno Costa",
+      "custo": 240.0
+    },
+    {
+      "semana": 2,
+      "dia": "Tue",
+      "horario": "14-16",
+      "eixo": "Computação",
+      "professor_id": "P2",
+      "professor_nome": "Prof. Bruno Costa",
+      "custo": 240.0
+    },
+    {
+      "semana": 2,
+      "dia": "Fri",
+      "horario": "14-16",
+      "eixo": "Computação",
+      "professor_id": "P2",
+      "professor_nome": "Prof. Bruno Costa",
+      "custo": 240.0
+    },
+    {
+      "semana": 2,
+      "dia": "Thu",
+      "horario": "10-12",
+      "eixo": "UX",
+      "professor_id": "P3",
+      "professor_nome": "Prof. Carla Souza",
+      "custo": 300.0
+    },
+    {
+      "semana": 2,
+      "dia": "Fri",
+      "horario": "08-10",
+      "eixo": "UX",
+      "professor_id": "P3",
+      "professor_nome": "Prof. Carla Souza",
+      "custo": 300.0
+    },
+    {
+      "semana": 1,
+      "dia": "Mon",
+      "horario": "16-18",
+      "eixo": "Orientação",
+      "professor_id": "P4",
+      "professor_nome": "Prof. Daniel Ferreira",
+      "custo": 180.0
+    },
+    {
+      "semana": 1,
+      "dia": "Tue",
+      "horario": "16-18",
+      "eixo": "Orientação",
+      "professor_id": "P4",
+      "professor_nome": "Prof. Daniel Ferreira",
+      "custo": 180.0
+    },
+    {
+      "semana": 1,
+      "dia": "Wed",
+      "horario": "16-18",
+      "eixo": "Matemática",
+      "professor_id": "P4",
+      "professor_nome": "Prof. Daniel Ferreira",
+      "custo": 180.0
+    },
+    {
+      "semana": 1,
+      "dia": "Thu",
+      "horario": "16-18",
+      "eixo": "Matemática",
+      "professor_id": "P4",
+      "professor_nome": "Prof. Daniel Ferreira",
+      "custo": 180.0
+    },
+    {
+      "semana": 2,
+      "dia": "Mon",
+      "horario": "16-18",
+      "eixo": "Orientação",
+      "professor_id": "P4",
+      "professor_nome": "Prof. Daniel Ferreira",
+      "custo": 180.0
+    },
+    {
+      "semana": 2,
+      "dia": "Tue",
+      "horario": "16-18",
+      "eixo": "Matemática",
+      "professor_id": "P4",
+      "professor_nome": "Prof. Daniel Ferreira",
+      "custo": 180.0
+    },
+    {
+      "semana": 2,
+      "dia": "Wed",
+      "horario": "16-18",
+      "eixo": "Orientação",
+      "professor_id": "P4",
+      "professor_nome": "Prof. Daniel Ferreira",
+      "custo": 180.0
+    },
+    {
+      "semana": 2,
+      "dia": "Thu",
+      "horario": "16-18",
+      "eixo": "Orientação",
+      "professor_id": "P4",
+      "professor_nome": "Prof. Daniel Ferreira",
+      "custo": 180.0
+    },
+    {
+      "semana": 1,
+      "dia": "Wed",
+      "horario": "14-16",
+      "eixo": "Negócios & Liderança",
+      "professor_id": "P6",
+      "professor_nome": "Prof. Fernando Alves",
+      "custo": 220.0
+    },
+    {
+      "semana": 1,
+      "dia": "Thu",
+      "horario": "14-16",
+      "eixo": "Negócios & Liderança",
+      "professor_id": "P6",
+      "professor_nome": "Prof. Fernando Alves",
+      "custo": 220.0
+    },
+    {
+      "semana": 1,
+      "dia": "Fri",
+      "horario": "14-16",
+      "eixo": "Negócios & Liderança",
+      "professor_id": "P6",
+      "professor_nome": "Prof. Fernando Alves",
+      "custo": 220.0
+    },
+    {
+      "semana": 2,
+      "dia": "Wed",
+      "horario": "14-16",
+      "eixo": "Orientação",
+      "professor_id": "P6",
+      "professor_nome": "Prof. Fernando Alves",
+      "custo": 220.0
+    },
+    {
+      "semana": 2,
+      "dia": "Thu",
+      "horario": "14-16",
+      "eixo": "Orientação",
+      "professor_id": "P6",
+      "professor_nome": "Prof. Fernando Alves",
+      "custo": 220.0
+    },
+    {
+      "semana": 1,
+      "dia": "Fri",
+      "horario": "16-18",
+      "eixo": "Matemática",
+      "professor_id": "P8",
+      "professor_nome": "Prof. Henrique Martins",
+      "custo": 190.0
+    },
+    {
+      "semana": 2,
+      "dia": "Fri",
+      "horario": "16-18",
+      "eixo": "Negócios & Liderança",
+      "professor_id": "P8",
+      "professor_nome": "Prof. Henrique Martins",
+      "custo": 190.0
+    },
+    {
+      "semana": 1,
+      "dia": "Wed",
+      "horario": "10-12",
+      "eixo": "UX",
+      "professor_id": "P9",
+      "professor_nome": "Prof. Isabela Santos",
+      "custo": 280.0
+    },
+    {
+      "semana": 1,
+      "dia": "Thu",
+      "horario": "08-10",
+      "eixo": "UX",
+      "professor_id": "P9",
+      "professor_nome": "Prof. Isabela Santos",
+      "custo": 280.0
+    },
+    {
+      "semana": 2,
+      "dia": "Wed",
+      "horario": "10-12",
+      "eixo": "UX",
+      "professor_id": "P9",
+      "professor_nome": "Prof. Isabela Santos",
+      "custo": 280.0
+    },
+    {
+      "semana": 2,
+      "dia": "Thu",
+      "horario": "08-10",
+      "eixo": "UX",
+      "professor_id": "P9",
+      "professor_nome": "Prof. Isabela Santos",
+      "custo": 280.0
+    },
+    {
+      "semana": 1,
+      "dia": "Fri",
+      "horario": "10-12",
+      "eixo": "Orientação",
+      "professor_id": "P10",
+      "professor_nome": "Prof. João Oliveira",
+      "custo": 170.0
+    },
+    {
+      "semana": 2,
+      "dia": "Fri",
+      "horario": "10-12",
+      "eixo": "Orientação",
+      "professor_id": "P10",
+      "professor_nome": "Prof. João Oliveira",
+      "custo": 170.0
+    }
+  ],
+  "custo_total": 8180.0,
+  "horas_por_eixo": {
+    "Orientação": 22,
+    "Computação": 22,
+    "UX": 12,
+    "Matemática": 12,
+    "Negócios & Liderança": 8
+  },
+  "solver_usado": "ilp",
+  "restricoes_relaxadas": [],
+  "fairness_scores": {}
+}

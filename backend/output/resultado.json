@@ -1,0 +1,114 @@
+{
+  "alocacoes": [
+    {
+      "semana": 1,
+      "dia": "Mon",
+      "horario": "08-10",
+      "eixo": "Orientação",
+      "professor_id": "P1",
+      "professor_nome": "Prof. Ana Silva",
+      "custo": 300.0
+    },
+    {
+      "semana": 1,
+      "dia": "Mon",
+      "horario": "10-12",
+      "eixo": "Computação",
+      "professor_id": "P1",
+      "professor_nome": "Prof. Ana Silva",
+      "custo": 300.0
+    },
+    {
+      "semana": 1,
+      "dia": "Mon",
+      "horario": "14-16",
+      "eixo": "UX",
+      "professor_id": "P2",
+      "professor_nome": "Prof. Bruno Costa",
+      "custo": 400.0
+    },
+    {
+      "semana": 1,
+      "dia": "Thu",
+      "horario": "14-16",
+      "eixo": "Matemática",
+      "professor_id": "P2",
+      "professor_nome": "Prof. Bruno Costa",
+      "custo": 400.0
+    },
+    {
+      "semana": 1,
+      "dia": "Wed",
+      "horario": "08-10",
+      "eixo": "Negócios & Liderança",
+      "professor_id": "P3",
+      "professor_nome": "Prof. Carla Souza",
+      "custo": 360.0
+    },
+    {
+      "semana": 2,
+      "dia": "Mon",
+      "horario": "08-10",
+      "eixo": "Orientação",
+      "professor_id": "P1",
+      "professor_nome": "Prof. Ana Silva",
+      "custo": 300.0
+    },
+    {
+      "semana": 2,
+      "dia": "Mon",
+      "horario": "10-12",
+      "eixo": "Computação",
+      "professor_id": "P1",
+      "professor_nome": "Prof. Ana Silva",
+      "custo": 300.0
+    },
+    {
+      "semana": 2,
+      "dia": "Tue",
+      "horario": "08-10",
+      "eixo": "Orientação",
+      "professor_id": "P1",
+      "professor_nome": "Prof. Ana Silva",
+      "custo": 300.0
+    },
+    {
+      "semana": 2,
+      "dia": "Tue",
+      "horario": "10-12",
+      "eixo": "Computação",
+      "professor_id": "P1",
+      "professor_nome": "Prof. Ana Silva",
+      "custo": 300.0
+    },
+    {
+      "semana": 2,
+      "dia": "Tue",
+      "horario": "14-16",
+      "eixo": "UX",
+      "professor_id": "P2",
+      "professor_nome": "Prof. Bruno Costa",
+      "custo": 400.0
+    },
+    {
+      "semana": 2,
+      "dia": "Wed",
+      "horario": "14-16",
+      "eixo": "Matemática",
+      "professor_id": "P2",
+      "professor_nome": "Prof. Bruno Costa",
+      "custo": 400.0
+    }
+  ],
+  "custo_total": 3760.0,
+  "horas_por_eixo": {
+    "Orientação": 6,
+    "Computação": 6,
+    "UX": 4,
+    "Matemática": 4,
+    "Negócios & Liderança": 2
+  },
+  "solver_usado": "greedy",
+  "restricoes_relaxadas": [],
+  "fairness_scores": {}
+}

@@ -1,0 +1,12 @@
+{
+  "alocacoes": [],
+  "custo_total": 0,
+  "horas_por_eixo": {},
+  "solver_usado": "repair_failed",
+  "restricoes_relaxadas": [
+    "tolerancia_proporcao=0.02",
+    "tolerancia_proporcao=0.05",
+    "tolerancia_proporcao=0.1"
+  ],
+  "fairness_scores": {}
+}

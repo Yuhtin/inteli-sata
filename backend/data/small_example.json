@@ -1,0 +1,214 @@
+{
+  "professores": [
+    {
+      "id": "P1",
+      "nome": "Prof. Ana Silva",
+      "eixos": ["Orientação", "Computação"],
+      "custo_hora": 100.0,
+      "max_horas_semana": 10,
+      "min_horas_trimestre": 30,
+      "disponibilidade": [
+        {"semana": 1, "dia": "Mon", "horario": "08-10"},
+        {"semana": 1, "dia": "Mon", "horario": "10-12"},
+        {"semana": 1, "dia": "Tue", "horario": "08-10"},
+        {"semana": 1, "dia": "Tue", "horario": "10-12"},
+        {"semana": 1, "dia": "Wed", "horario": "08-10"},
+        {"semana": 2, "dia": "Mon", "horario": "08-10"},
+        {"semana": 2, "dia": "Mon", "horario": "10-12"},
+        {"semana": 2, "dia": "Tue", "horario": "08-10"},
+        {"semana": 2, "dia": "Tue", "horario": "10-12"},
+        {"semana": 2, "dia": "Wed", "horario": "08-10"}
+      ],
+      "preferencias": {}
+    },
+    {
+      "id": "P2",
+      "nome": "Prof. Bruno Costa",
+      "eixos": ["Matemática", "Computação"],
+      "custo_hora": 120.0,
+      "max_horas_semana": 12,
+      "min_horas_trimestre": 36,
+      "disponibilidade": [
+        {"semana": 1, "dia": "Mon", "horario": "14-16"},
+        {"semana": 1, "dia": "Tue", "horario": "14-16"},
+        {"semana": 1, "dia": "Wed", "horario": "14-16"},
+        {"semana": 1, "dia": "Thu", "horario": "14-16"},
+        {"semana": 1, "dia": "Fri", "horario": "14-16"},
+        {"semana": 1, "dia": "Fri", "horario": "16-18"},
+        {"semana": 2, "dia": "Mon", "horario": "14-16"},
+        {"semana": 2, "dia": "Tue", "horario": "14-16"},
+        {"semana": 2, "dia": "Wed", "horario": "14-16"},
+        {"semana": 2, "dia": "Thu", "horario": "14-16"},
+        {"semana": 2, "dia": "Fri", "horario": "14-16"},
+        {"semana": 2, "dia": "Fri", "horario": "16-18"}
+      ],
+      "preferencias": {}
+    },
+    {
+      "id": "P3",
+      "nome": "Prof. Carla Souza",
+      "eixos": ["Negócios & Liderança", "UX"],
+      "custo_hora": 150.0,
+      "max_horas_semana": 10,
+      "min_horas_trimestre": 30,
+      "disponibilidade": [
+        {"semana": 1, "dia": "Wed", "horario": "10-12"},
+        {"semana": 1, "dia": "Thu", "horario": "08-10"},
+        {"semana": 1, "dia": "Thu", "horario": "10-12"},
+        {"semana": 1, "dia": "Fri", "horario": "08-10"},
+        {"semana": 1, "dia": "Fri", "horario": "10-12"},
+        {"semana": 2, "dia": "Wed", "horario": "10-12"},
+        {"semana": 2, "dia": "Thu", "horario": "08-10"},
+        {"semana": 2, "dia": "Thu", "horario": "10-12"},
+        {"semana": 2, "dia": "Fri", "horario": "08-10"},
+        {"semana": 2, "dia": "Fri", "horario": "10-12"}
+      ],
+      "preferencias": {}
+    },
+    {
+      "id": "P4",
+      "nome": "Prof. Daniel Ferreira",
+      "eixos": ["Orientação", "Matemática"],
+      "custo_hora": 90.0,
+      "max_horas_semana": 8,
+      "min_horas_trimestre": 24,
+      "disponibilidade": [
+        {"semana": 1, "dia": "Mon", "horario": "16-18"},
+        {"semana": 1, "dia": "Tue", "horario": "16-18"},
+        {"semana": 1, "dia": "Wed", "horario": "16-18"},
+        {"semana": 1, "dia": "Thu", "horario": "16-18"},
+        {"semana": 2, "dia": "Mon", "horario": "16-18"},
+        {"semana": 2, "dia": "Tue", "horario": "16-18"},
+        {"semana": 2, "dia": "Wed", "horario": "16-18"},
+        {"semana": 2, "dia": "Thu", "horario": "16-18"}
+      ],
+      "preferencias": {}
+    },
+    {
+      "id": "P5",
+      "nome": "Prof. Elena Rodrigues",
+      "eixos": ["UX", "Computação"],
+      "custo_hora": 130.0,
+      "max_horas_semana": 10,
+      "min_horas_trimestre": 30,
+      "disponibilidade": [
+        {"semana": 1, "dia": "Mon", "horario": "12-14"},
+        {"semana": 1, "dia": "Tue", "horario": "12-14"},
+        {"semana": 1, "dia": "Wed", "horario": "12-14"},
+        {"semana": 1, "dia": "Thu", "horario": "12-14"},
+        {"semana": 1, "dia": "Fri", "horario": "12-14"},
+        {"semana": 2, "dia": "Mon", "horario": "12-14"},
+        {"semana": 2, "dia": "Tue", "horario": "12-14"},
+        {"semana": 2, "dia": "Wed", "horario": "12-14"},
+        {"semana": 2, "dia": "Thu", "horario": "12-14"},
+        {"semana": 2, "dia": "Fri", "horario": "12-14"}
+      ],
+      "preferencias": {}
+    },
+    {
+      "id": "P6",
+      "nome": "Prof. Fernando Alves",
+      "eixos": ["Orientação", "Negócios & Liderança"],
+      "custo_hora": 110.0,
+      "max_horas_semana": 9,
+      "min_horas_trimestre": 27,
+      "disponibilidade": [
+        {"semana": 1, "dia": "Mon", "horario": "10-12"},
+        {"semana": 1, "dia": "Tue", "horario": "10-12"},
+        {"semana": 1, "dia": "Wed", "horario": "14-16"},
+        {"semana": 1, "dia": "Thu", "horario": "14-16"},
+        {"semana": 1, "dia": "Fri", "horario": "14-16"},
+        {"semana": 2, "dia": "Mon", "horario": "10-12"},
+        {"semana": 2, "dia": "Tue", "horario": "10-12"},
+        {"semana": 2, "dia": "Wed", "horario": "14-16"},
+        {"semana": 2, "dia": "Thu", "horario": "14-16"}
+      ],
+      "preferencias": {}
+    },
+    {
+      "id": "P7",
+      "nome": "Prof. Gabriela Lima",
+      "eixos": ["Computação", "UX", "Matemática"],
+      "custo_hora": 160.0,
+      "max_horas_semana": 11,
+      "min_horas_trimestre": 33,
+      "disponibilidade": [
+        {"semana": 1, "dia": "Mon", "horario": "08-10"},
+        {"semana": 1, "dia": "Mon", "horario": "14-16"},
+        {"semana": 1, "dia": "Tue", "horario": "08-10"},
+        {"semana": 1, "dia": "Wed", "horario": "08-10"},
+        {"semana": 1, "dia": "Wed", "horario": "14-16"},
+        {"semana": 1, "dia": "Thu", "horario": "10-12"},
+        {"semana": 2, "dia": "Mon", "horario": "08-10"},
+        {"semana": 2, "dia": "Mon", "horario": "14-16"},
+        {"semana": 2, "dia": "Tue", "horario": "08-10"},
+        {"semana": 2, "dia": "Wed", "horario": "08-10"},
+        {"semana": 2, "dia": "Wed", "horario": "14-16"}
+      ],
+      "preferencias": {}
+    },
+    {
+      "id": "P8",
+      "nome": "Prof. Henrique Martins",
+      "eixos": ["Matemática", "Negócios & Liderança"],
+      "custo_hora": 95.0,
+      "max_horas_semana": 8,
+      "min_horas_trimestre": 24,
+      "disponibilidade": [
+        {"semana": 1, "dia": "Tue", "horario": "16-18"},
+        {"semana": 1, "dia": "Wed", "horario": "16-18"},
+        {"semana": 1, "dia": "Thu", "horario": "16-18"},
+        {"semana": 1, "dia": "Fri", "horario": "16-18"},
+        {"semana": 2, "dia": "Tue", "horario": "16-18"},
+        {"semana": 2, "dia": "Wed", "horario": "16-18"},
+        {"semana": 2, "dia": "Thu", "horario": "16-18"},
+        {"semana": 2, "dia": "Fri", "horario": "16-18"}
+      ],
+      "preferencias": {}
+    },
+    {
+      "id": "P9",
+      "nome": "Prof. Isabela Santos",
+      "eixos": ["Orientação", "UX"],
+      "custo_hora": 140.0,
+      "max_horas_semana": 10,
+      "min_horas_trimestre": 30,
+      "disponibilidade": [
+        {"semana": 1, "dia": "Mon", "horario": "10-12"},
+        {"semana": 1, "dia": "Mon", "horario": "16-18"},
+        {"semana": 1, "dia": "Tue", "horario": "10-12"},
+        {"semana": 1, "dia": "Wed", "horario": "10-12"},
+        {"semana": 1, "dia": "Thu", "horario": "08-10"},
+        {"semana": 2, "dia": "Mon", "horario": "10-12"},
+        {"semana": 2, "dia": "Mon", "horario": "16-18"},
+        {"semana": 2, "dia": "Tue", "horario": "10-12"},
+        {"semana": 2, "dia": "Wed", "horario": "10-12"},
+        {"semana": 2, "dia": "Thu", "horario": "08-10"}
+      ],
+      "preferencias": {}
+    },
+    {
+      "id": "P10",
+      "nome": "Prof. João Oliveira",
+      "eixos": ["Computação", "Orientação"],
+      "custo_hora": 85.0,
+      "max_horas_semana": 12,
+      "min_horas_trimestre": 36,
+      "disponibilidade": [
+        {"semana": 1, "dia": "Mon", "horario": "12-14"},
+        {"semana": 1, "dia": "Tue", "horario": "12-14"},
+        {"semana": 1, "dia": "Wed", "horario": "12-14"},
+        {"semana": 1, "dia": "Thu", "horario": "12-14"},
+        {"semana": 1, "dia": "Fri", "horario": "12-14"},
+        {"semana": 1, "dia": "Fri", "horario": "10-12"},
+        {"semana": 2, "dia": "Mon", "horario": "12-14"},
+        {"semana": 2, "dia": "Tue", "horario": "12-14"},
+        {"semana": 2, "dia": "Wed", "horario": "12-14"},
+        {"semana": 2, "dia": "Thu", "horario": "12-14"},
+        {"semana": 2, "dia": "Fri", "horario": "12-14"},
+        {"semana": 2, "dia": "Fri", "horario": "10-12"}
+      ],
+      "preferencias": {}
+    }
+  ]
+}
