@@ -43,7 +43,7 @@ sata/
 ### Backend
 
 ```bash
-cd sata/backend
+cd backend
 pip install -r requirements.txt
 
 # Executar com Greedy Solver
@@ -59,7 +59,7 @@ python3 main.py --solver repair --semanas 12
 ### Frontend
 
 ```bash
-cd sata/frontend
+cd frontend
 npm install
 npm run dev
 ```
